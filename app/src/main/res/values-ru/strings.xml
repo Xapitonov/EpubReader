@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Epub-Читалка</string>
+
+    <color name="dark_grey">#696969</color>
+
+    <string name="Open_Book_1">Открыть книгу 1</string>
+    <string name="Show_Metadata">Данные о книге</string>
+    <string name="Refresh">Обновить</string>
+    <string name="From_Book_1">Из книги 1</string>
+    <string name="Book_1">Книга 1</string>
+    <string name="Book_2">Книга 2</string>
+    <string name="bookOpen">книгаОткрыта</string>
+    <string name="Table_of_Contents">Содержание</string>
+    <string name="Change_Size">Изменить размер панели</string>
+    <string name="error_LoadPage">Не удалось загрузить страницу</string>
+    <string name="error_LoadBook">Не удалось загрузить книгу</string>
+    <string name="error_metadataNotFound">Метаданные не найдены!</string>
+    <string name="error_tocNotFound">Содержание не найдено!</string>
+    <string name="url">URL</string>
+    <string name="bpath">путьКниги</string>
+    <string name="invisible">невидимый</string>
+    <string name="second">секунда</string>
+    <string name="time">время</string>
+    <string name="error_cannotTurnPage">Не удаётся перевернуть страницу!</string>
+    <string name="tome">том</string>
+    <string name="lang">язык</string>
+    <string name="error_noOtherLanguages">Нет других языков!</string>
+    <string name="state">состояние</string>
+    <string name="error_cannotLoadState">Не удаётся загрузить состояние приложения/книги</string>
+    <string name="textOrHTML">text/html</string>
+    <string name="sync">синхронизация</string>
+    <string name="page">страница</string>
+    <string name="CurrentPageBook">ТекущаяСтраницаКниги</string>
+    <string name="LanguageBook">ЯзыкКниги</string>
+    <string name="pathBook">путьКниги</string>
+    <string name="error_CannotCloseStream">Не удалось закрыть поток!</string>
+    <string name="Book_Stream">Поток книги</string>
+    <string name="nameEpub">имяEpub</string>
+    <string name="error_goToPage">ошибка goToPage:</string>
+    <string name="error_goToPage">ошибка goToPage:</string>
+    <string name="full_path">полный-путь</string>
+    <string name="zip">.zip</string>
+    <string name="htmlBodyTableOpen">&lt;html&gt;&lt;body&gt;&lt;table&gt;</string>
+    <string name="titlesMeta">&lt;tr&gt;&lt;td&gt;Названия:&lt;/td&gt;</string>
+    <string name="authorsMeta">&lt;tr&gt;&lt;td&gt;Авторы:&lt;/td&gt;</string>
+    <string name="contributorsMeta">&lt;tr&gt;&lt;td&gt;Участники:&lt;/td&gt;</string>
+    <string name="languageMeta">&lt;tr&gt;&lt;td&gt;Язык:&lt;/td&gt;&lt;td&gt;</string>
+    <string name="publishersMeta">&lt;tr&gt;&lt;td&gt;Издатели:&lt;/td&gt;</string>
+    <string name="typesMeta">&lt;tr&gt;&lt;td&gt;Типы:&lt;/td&gt;</string>
+    <string name="descriptionsMeta">&lt;tr&gt;&lt;td&gt;Описание:&lt;/td&gt;</string>
+    <string name="rightsMeta">&lt;tr&gt;&lt;td&gt;Права:&lt;/td&gt;</string>
+    <string name="tablebodyhtmlClose">&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string name="tocReference">&lt;tr&gt;&lt;td&gt;Содержание:&lt;/td&gt;</string>
+    <string name="change_Font">Выбор шрифта</string>
+    <string name="change_Font_Color">Цвет шрифта:</string>
+    <string name="changeStyle">Изменить стиль</string>
+    <string name="blue_rgb">#2196F3</string>
+    <string name="red_rgb">#F44336</string>
+    <string name="green_rgb">#4CAF50</string>
+    <string name="black_rgb">#000000</string>
+    <string name="white_rgb">#ffffff</string>
+    <string name="error_CannotChangeStyle">Невозможно изменить стиль!</string>
+    <string name="OK">ОК</string>
+    <string name="Cancel">Отмена</string>
+    <string name="SetSizeTitle">Размер верхней панели:</string>
+    <string name="LanguageChooserTitle">Выбор двух языков:</string>
+
+    <string-array name="ColorFont">
+        <item>Чёрный</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Синий</item>
+        <item>Белый</item>
+    </string-array>
+
+    <string name="ChangeBackgroundColor">Цвет фона:</string>
+
+    <string-array name="ColorBack">
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Синий</item>
+        <item>Чёрный</item>
+    </string-array>
+
+    <string name="syncScroll">Синхр. прокрутка</string>
+    <string name="ChangeFont">Шрифт:</string>
+
+    <string-array name="FontStyle">
+        <item>Без засечек</item>
+        <item>С засечками</item>
+        <item>Моноширинный</item>
+    </string-array>
+
+    <string name="Arial">Без засечек</string>
+    <string name="Serif">С засечками</string>
+    <string name="Monospace">Моноширинный</string>
+    <string name="FontSize">Размер шрифта:</string>
+    <string name="LineHeight">Высота строки:</string>
+    <string name="TextAlign">Равнение:</string>
+
+    <string-array name="testAlignOption">
+        <item>Слева</item>
+        <item>По центру</item>
+        <item>Справа</item>
+        <item>По краям</item>
+    </string-array>
+
+    <string name="Left_Align">Слева</string>
+    <string name="Center_Align">По центру</string>
+    <string name="Right_Align">Справа</string>
+    <string name="DefaultSettings">Базовая</string>
+    <string name="px">пиксели</string>
+    <string name="open">Открыть...</string>
+    <string name="Margin">Поля (пикс.):</string>
+
+    <string-array name="FontSize">
+        <item>100%</item>
+        <item>125%</item>
+        <item>150%</item>
+        <item>175%</item>
+        <item>200%</item>
+        <item>90%</item>
+    </string-array>
+    <string-array name="LineHeight">
+        <item>1em</item>
+        <item>1.25em</item>
+        <item>1.5em</item>
+        <item>1.75em</item>
+        <item>2em</item>
+        <item>0.9em</item>
+    </string-array>
+
+    <string name="Justify">По краям</string>
+
+    <string-array name="Margin">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+
+    <string name="title_activity_split_panel">Разделенная панель</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_book_view">Представление книги</string>
+    <string name="title_activity_main">Главная активность</string>
+    <string name="title_activity_tocview">Содержание</string>
+    <string name="title_activity_data_view">Представление данных</string>
+    <string name="ViewType">Тип представления</string>
+    <string name="error_CannotChangeCSS">Не удалось изменить стиль</string>
+
+</resources>
